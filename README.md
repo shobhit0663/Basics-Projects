@@ -5,4 +5,4 @@ These projects represent my early steps in coding, where I focused on applying f
 
 This repository includes three beginner-friendly projects aimed at enhancing my grasp of HTML, CSS.
 Each project explores different aspects of development, covering logic building, UI design.
-
+The goal is to develop clean, efficient, and scalable code while continuously improving my problem-solving skills.
